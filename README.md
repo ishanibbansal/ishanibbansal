@@ -14,7 +14,7 @@ Focused on Autonomous Systems, Edge Perception, and High-Performance C++ Enginee
 #### Active Endeavors
 * 🏎️ **Sun Devil Motorsports (Formula SAE):** Real-time CAN-FD telemetry pipelines and vehicle sensor acquisition firmware.
 * 🚗 **Autonomous Perception Pipeline:** Teacher-Student 3D BEV distillation engine on the Waymo Open Dataset with C++ TensorRT edge inference.
-* 🧭 **Autonomous Trajectory Planner:** *(In Development)* Real-time Frenet-frame lattice planning and kinematic MPC in C++17.
+* 📡 autonomous-prediction-pipeline: (In Development) Real-time multi-object tracking (MOT) and trajectory forecasting in C++17 using linear Kalman filtering, SE(2)/SE(3) ego-motion compensation, and Eigen3.
 
 ---
 
